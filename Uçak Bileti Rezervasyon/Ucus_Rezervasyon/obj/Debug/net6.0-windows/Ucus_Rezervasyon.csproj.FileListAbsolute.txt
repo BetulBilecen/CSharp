@@ -1,0 +1,36 @@
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\bin\Debug\net6.0-windows\Ucus_Rezervasyon.exe
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\bin\Debug\net6.0-windows\Ucus_Rezervasyon.deps.json
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\bin\Debug\net6.0-windows\Ucus_Rezervasyon.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\bin\Debug\net6.0-windows\Ucus_Rezervasyon.dll
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\bin\Debug\net6.0-windows\Ucus_Rezervasyon.pdb
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.Form1.resources
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.dll
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\refint\Ucus_Rezervasyon.dll
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.pdb
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\Udemy\Uygulama\Ucus_Rezervasyon\obj\Debug\net6.0-windows\ref\Ucus_Rezervasyon.dll
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\bin\Debug\net6.0-windows\Ucus_Rezervasyon.exe
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\bin\Debug\net6.0-windows\Ucus_Rezervasyon.deps.json
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\bin\Debug\net6.0-windows\Ucus_Rezervasyon.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\bin\Debug\net6.0-windows\Ucus_Rezervasyon.dll
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\bin\Debug\net6.0-windows\Ucus_Rezervasyon.pdb
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.Form1.resources
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.dll
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\refint\Ucus_Rezervasyon.dll
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.pdb
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\Ucus_Rezervasyon.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\Udemy\Uçak Bileti Alma\Ucus_Rezervasyon\obj\Debug\net6.0-windows\ref\Ucus_Rezervasyon.dll

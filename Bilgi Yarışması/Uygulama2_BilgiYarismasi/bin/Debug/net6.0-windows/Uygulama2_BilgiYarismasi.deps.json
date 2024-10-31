@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Uygulama2_BilgiYarismasi/1.0.0": {
+        "runtime": {
+          "Uygulama2_BilgiYarismasi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uygulama2_BilgiYarismasi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

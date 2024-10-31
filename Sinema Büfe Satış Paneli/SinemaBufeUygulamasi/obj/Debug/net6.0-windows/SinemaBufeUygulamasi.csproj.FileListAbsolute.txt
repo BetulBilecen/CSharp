@@ -1,0 +1,36 @@
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\bin\Debug\net6.0-windows\SinemaBufeUygulamasi.exe
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\bin\Debug\net6.0-windows\SinemaBufeUygulamasi.deps.json
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\bin\Debug\net6.0-windows\SinemaBufeUygulamasi.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\bin\Debug\net6.0-windows\SinemaBufeUygulamasi.dll
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\bin\Debug\net6.0-windows\SinemaBufeUygulamasi.pdb
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.Form1.resources
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.dll
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\refint\SinemaBufeUygulamasi.dll
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.pdb
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\Udemy\Uygulama1\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\ref\SinemaBufeUygulamasi.dll
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\bin\Debug\net6.0-windows\SinemaBufeUygulamasi.exe
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\bin\Debug\net6.0-windows\SinemaBufeUygulamasi.deps.json
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\bin\Debug\net6.0-windows\SinemaBufeUygulamasi.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\bin\Debug\net6.0-windows\SinemaBufeUygulamasi.dll
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\bin\Debug\net6.0-windows\SinemaBufeUygulamasi.pdb
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.Form1.resources
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.dll
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\refint\SinemaBufeUygulamasi.dll
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.pdb
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\SinemaBufeUygulamasi.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\Udemy\Sinema Büfe Satış Paneli\SinemaBufeUygulamasi\obj\Debug\net6.0-windows\ref\SinemaBufeUygulamasi.dll

@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\bin\Debug\net6.0-windows\Dijital_Saat.exe
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\bin\Debug\net6.0-windows\Dijital_Saat.deps.json
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\bin\Debug\net6.0-windows\Dijital_Saat.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\bin\Debug\net6.0-windows\Dijital_Saat.dll
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\bin\Debug\net6.0-windows\Dijital_Saat.pdb
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.Form1.resources
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.dll
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\refint\Dijital_Saat.dll
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.pdb
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\Dijital_Saat.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\Udemy\Dijital_Saat\Dijital_Saat\obj\Debug\net6.0-windows\ref\Dijital_Saat.dll

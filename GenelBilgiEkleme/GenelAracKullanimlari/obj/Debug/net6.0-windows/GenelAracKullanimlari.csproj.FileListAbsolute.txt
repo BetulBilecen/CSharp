@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\bin\Debug\net6.0-windows\GenelAracKullanimlari.exe
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\bin\Debug\net6.0-windows\GenelAracKullanimlari.deps.json
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\bin\Debug\net6.0-windows\GenelAracKullanimlari.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\bin\Debug\net6.0-windows\GenelAracKullanimlari.dll
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\bin\Debug\net6.0-windows\GenelAracKullanimlari.pdb
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\GenelAracKullanimlari.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\GenelAracKullanimlari.Form1.resources
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\GenelAracKullanimlari.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\GenelAracKullanimlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\GenelAracKullanimlari.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\GenelAracKullanimlari.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\GenelAracKullanimlari.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\GenelAracKullanimlari.dll
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\refint\GenelAracKullanimlari.dll
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\GenelAracKullanimlari.pdb
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\GenelAracKullanimlari.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\Udemy\GenelAracKullanimlari\GenelAracKullanimlari\obj\Debug\net6.0-windows\ref\GenelAracKullanimlari.dll

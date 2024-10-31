@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\bin\Debug\net6.0-windows\AritmetikHesaplamalar.exe
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\bin\Debug\net6.0-windows\AritmetikHesaplamalar.deps.json
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\bin\Debug\net6.0-windows\AritmetikHesaplamalar.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\bin\Debug\net6.0-windows\AritmetikHesaplamalar.dll
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\bin\Debug\net6.0-windows\AritmetikHesaplamalar.pdb
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\AritmetikHesaplamalar.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\AritmetikHesaplamalar.Form1.resources
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\AritmetikHesaplamalar.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\AritmetikHesaplamalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\AritmetikHesaplamalar.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\AritmetikHesaplamalar.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\AritmetikHesaplamalar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\AritmetikHesaplamalar.dll
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\refint\AritmetikHesaplamalar.dll
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\AritmetikHesaplamalar.pdb
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\AritmetikHesaplamalar.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\Udemy\AritmetikHesaplamalar\AritmetikHesaplamalar\obj\Debug\net6.0-windows\ref\AritmetikHesaplamalar.dll
