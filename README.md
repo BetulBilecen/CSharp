@@ -25,10 +25,13 @@ This repository contains various practice projects such as:
 3.  Build and run the project.
 
 ---
+
 *This repository serves as a portfolio of my early coding journey in C#.*
+
+## 📸 Digital Clock Project Preview
+
+The application features a dynamic background that changes based on the timer duration (demonstrating conditional logic).
 
 <img width="490" height="358" alt="image" src="https://github.com/user-attachments/assets/e5facb3e-0a8f-4d2e-af8c-c0383f8e9e21" />
 
-
 <img width="482" height="471" alt="image" src="https://github.com/user-attachments/assets/75b200d1-7d83-43d5-9111-347ed9550cb2" />
-
